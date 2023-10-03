@@ -6,7 +6,7 @@
 
 
 
-### This Project is made using React (Frontend) and Node.js (Backend) by connecting it with PostgreSQL Database
+### This Project is made using React (Frontend) and Node.js (Backend) by connecting it with PostgreSQL Database. Additionally I have added the feature of entering capatcha in Login form.
 
 ## Clone the Project
 ```bash
