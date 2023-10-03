@@ -10,12 +10,12 @@
 
 ## Clone the Project
 ```bash
- git clone https://github.com/mejkp-07/Login_Page-CDAC-Simple.git
+ git clone https://github.com/mejkp-07/Login_Page-CDAC-with-CAPATCHA-.git
 ```
 ## Go inside this Project
 
 ```bash
- cd Login_Page-CDAC-Simple
+ cd Login_Page-CDAC-with-CAPATCHA-
  ```
  ## Install Packages
 
@@ -40,7 +40,7 @@
 ```bash
  node server.js
  ```
- ## Run the React Frontend
+ ## Run the React Frontend (On another Terminal)
 ```bash
  cd client
  ```
